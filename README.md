@@ -1,7 +1,3 @@
-![Format](../../actions/workflows/format.yml/badge.svg)
-![Header](../../actions/workflows/header.yml/badge.svg)
-![Lint](../../actions/workflows/lint.yml/badge.svg)
-
 # Space Invaders!
 
 In this exercise, we shall write a [space invaders](https://en.wikipedia.org/wiki/Space_Invaders) style game. Space Invaders was first released in 1978 and it was the first fixed shooter. Other games in the fixed shooter category that you may be familiar with are Galaxian, Centipede, and Galaga.
